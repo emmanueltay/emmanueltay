@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hello there! 👋
+
+I'm Emmanuel Adzi-Tay, a passionate computer science student on a journey to become a proficient software developer and a network security engineer. 🚀 Currently immersed in the world of algorithms, data structures, and coding challenges, I'm dedicated to honing my skills and crafting innovative solutions to problems that I come across.
 🔭 I’m currently working on ** A Budget App**<br>🌱 I’m currently learning **Data Structures and Algorithms in Python**<br>💬 Ask me about **Python, Flask, SQL, html, **Arduino<br>📫 How to reach me: ** adzitayemmanuelgmail.com**<br>😄 Pronouns: **He / Him**<br>⚡ Fun fact ** I like sleeping a lot**
 
 
@@ -26,5 +29,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emmanueltay&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Let's code the future together! 🚀✨
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
